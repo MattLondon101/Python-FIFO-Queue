@@ -1,5 +1,3 @@
-﻿''' Copyright (c) Docugami, Inc. All rights reserved. '''
-
 from abc import ABC, abstractmethod
 
 class BaseQueue(ABC):
