@@ -1,5 +1,3 @@
-# Copyright (c) Docugami, Inc. All rights reserved.
-
 from take_home.base.base_queue import BaseQueue
 import dill as pickle
 
