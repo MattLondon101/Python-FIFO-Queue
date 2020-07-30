@@ -1,4 +1,4 @@
-# Python Queue without any collection classes
+# Python FIFO Queue
 
 The queue implemented in implementation/queue.py comprises a doubly linked node structure, which uses links between nodes to point to previous and next nodes. Following the first in first out (FIFO) principle, nodes are added to the tail and removed from the head. 
 
