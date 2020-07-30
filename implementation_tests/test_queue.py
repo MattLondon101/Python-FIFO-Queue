@@ -1,5 +1,3 @@
-''' Copyright (c) Docugami, Inc. All rights reserved. '''
-
 from take_home.implementation.queue import Queue
 
 def test_peek():
