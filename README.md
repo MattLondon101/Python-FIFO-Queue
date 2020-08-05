@@ -10,5 +10,3 @@ External sources used for tips and inspiration:
 1. persist-queue @ GitHub: https://github.com/peter-wangxu/persist-queue/blob/master/persistqueue/queue.py
 2. cpython queue.py @ GitHub: https://github.com/python/cpython/blob/3.8/Lib/queue.py
 3. Python 3.8 Documentation: https://docs.python.org/3.8/index.html
-
-It took 4 hours to complete this project.
